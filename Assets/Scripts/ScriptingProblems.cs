@@ -12,7 +12,7 @@ public class ScriptingProblems : MonoBehaviour
 		//SwapNumbers();
 		//FindHighestNumber();
 		//IncreaseAge();
-		MovePosition();
+		//MovePosition();
 	}
 
 	public void SwapNumbers()
